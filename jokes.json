@@ -1,0 +1,19 @@
+{
+    "jokes":[
+    {
+        "id":1,
+        "question": "Who's there?",
+        "answer": "Jarrett"
+    },
+    {
+        "id":2,
+        "question": "Why can't a pinguin f;ap their wings?",
+        "answer": "The don't have feather :)"  
+    },
+    {
+        "id":3,
+        "question": "why are mushrooms great at patties?",
+        "answer": "Because they are fungi"
+    }
+]
+}
