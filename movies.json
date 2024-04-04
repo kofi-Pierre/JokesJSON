@@ -1,0 +1,109 @@
+{
+    "movies": [
+        {
+            "MovieID": 101,
+            "Title": "Inception",
+            "Genre": "Science Fiction",
+            "Length": "2:28",
+            "Rating": 87
+        },
+        {
+            "MovieID": 102,
+            "Title": "The Dark Knight",
+            "Genre": "Action",
+            "Length": "2:32",
+            "Rating": 94
+        },
+        {
+            "MovieID": 103,
+            "Title": "Pulp Fiction",
+            "Genre": "Crime",
+            "Length": "2:34",
+            "Rating": 92
+        },
+        {
+            "MovieID": 104,
+            "Title": "The Shawshank Redemption",
+            "Genre": "Drama",
+            "Length": "2:22",
+            "Rating": 91
+        },
+        {
+            "MovieID": 105,
+            "Title": "Fight Club",
+            "Genre": "Drama",
+            "Length": "2:19",
+            "Rating": 79
+        },
+        {
+            "MovieID": 106,
+            "Title": "Forrest Gump",
+            "Genre": "Drama",
+            "Length": "2:22",
+            "Rating": 71
+        },
+        {
+            "MovieID": 107,
+            "Title": "The Matrix",
+            "Genre": "Science Fiction",
+            "Length": "2:16",
+            "Rating": 87
+        },
+        {
+            "MovieID": 108,
+            "Title": "Gladiator",
+            "Genre": "Action",
+            "Length": "2:35",
+            "Rating": 76
+        },
+        {
+            "MovieID": 109,
+            "Title": "The Godfather",
+            "Genre": "Crime",
+            "Length": "2:55",
+            "Rating": 98
+        },
+        {
+            "MovieID": 110,
+            "Title": "Inglourious Basterds",
+            "Genre": "War",
+            "Length": "2:33",
+            "Rating": 89
+        },
+        {
+            "MovieID": 111,
+            "Title": "The Social Network",
+            "Genre": "Biography",
+            "Length": "2:00",
+            "Rating": 80
+        },
+        {
+            "MovieID": 112,
+            "Title": "The Lion King",
+            "Genre": "Animation",
+            "Length": "1:28",
+            "Rating": 93
+        },
+        {
+            "MovieID": 113,
+            "Title": "Eternal Sunshine of the Spotless Mind",
+            "Genre": "Romance",
+            "Length": "1:48",
+            "Rating": 93
+        },
+        {
+            "MovieID": 114,
+            "Title": "The Departed",
+            "Genre": "Crime",
+            "Length": "2:31",
+            "Rating": 90
+        },
+        {
+            "MovieID": 115,
+            "Title": "The Grand Budapest Hotel",
+            "Genre": "Comedy",
+            "Length": "1:39",
+            "Rating": 91
+        }
+    ]
+}
